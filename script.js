@@ -104,20 +104,20 @@ function burstHearts(origin) {
 // ============================ CẢNH VŨ TRỤ 3D (Three.js) ============================
 // ----- CHỈNH Ở ĐÂY -----
 const PHOTO_SOURCES = [
-  "images/10.jpeg",
-  "images/11.jpeg",
-  "images/12.jpeg",
-  "images/13.jpeg",
-  "images/14.jpg",
-  "images/2.jpeg",
-  "images/3.jpeg",
-  "images/4.jpeg",
-  "images/5.jpeg",
-  "images/6.jpeg",
-  "images/7.jpg",
-  "images/8.jpeg",
-  "images/9.jpeg",
-  "images/15.jpg"
+  "images/10.JPG",
+  "images/11.JPG",
+  "images/12.JPG",
+  "images/13.jpg",
+  "images/14.JPG",
+  "images/2.JPG",
+  "images/3.JPG",
+  "images/4.JPG",
+  "images/5.JPG",
+  "images/6.JPG",
+  "images/7.JPG",
+  "images/8.JPG",
+  "images/9.JPG",
+  "images/1.jpg"
 ];
 const TILE_COUNT = 88;   // tổng số khung ảnh bay quanh hành tinh
 // Lời nhắn hiện khi bấm vào ảnh (chọn ngẫu nhiên). Em có thể thêm/sửa tùy thích.
