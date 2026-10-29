@@ -103,20 +103,21 @@ function burstHearts(origin) {
 
 // ============================ CẢNH VŨ TRỤ 3D (Three.js) ============================
 // ----- CHỈNH Ở ĐÂY -----
+// Tên file phải khớp chữ hoa/thường trong Git để tải được trên GitHub Pages.
 const PHOTO_SOURCES = [
-  "images/10.jpg",
-  "images/11.jpg",
-  "images/12.jpg",
+  "images/10.JPG",
+  "images/11.JPG",
+  "images/12.JPG",
   "images/13.jpg",
   "images/14.jpg",
-  "images/2.jpg",
-  "images/3.jpg",
-  "images/4.jpg",
-  "images/5.jpg",
-  "images/6.jpg",
-  "images/7.jpg",
-  "images/8.jpg",
-  "images/9.jpg",
+  "images/2.JPG",
+  "images/3.JPG",
+  "images/4.JPG",
+  "images/5.JPG",
+  "images/6.JPG",
+  "images/7.JPG",
+  "images/8.JPG",
+  "images/9.JPG",
   "images/1.jpg"
 ];
 const TILE_COUNT = 88;   // tổng số khung ảnh bay quanh hành tinh
